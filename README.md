@@ -1,8 +1,6 @@
 TISE
 ====
 
-Stationary state finder for the Time-Independent Schrodinger Equation
-
 This program finds a specified energy level (n) for a handful of potential wells, or will otherwise say that such an energy level does not exist.  The wells included are a "paddleball" potential (one-sided harmonic oscillator with an infinite wall for x > 0), a harmonic oscillator potential, a finite square well, a sloped finite square well ("bounded ramp"), and an uneven square well which has two distinct lower energies within its walls.
 
 What the program will display is the particle energy (for an electron, precise to machine precision), the wavefunction itself, and the probability distribution of the particle.  It will also show dotted lines on all graphs to indicate where the particle energy equals the potential.
